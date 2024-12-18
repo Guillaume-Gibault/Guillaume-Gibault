@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a 22 years old Digital Systems Engineering student from France :fr:.
+I'm a 23 years old Digital Systems Engineering student from France :fr:.
 
 - :telescope: I’m studying Digital Systems Engineering at Polytech Marseille.
 
